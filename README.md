@@ -1,1 +1,0 @@
-# OpenHarmony_Test_APP
